@@ -1,4 +1,4 @@
-# Weather Agent Project 
+# Weather Report Agent Project 
 
 ```markdown
 # 🌦️ AI Weather Agent
@@ -11,7 +11,7 @@ A smart AI-powered weather assistant built with Agno framework that fetches real
 - **💬 Interactive Chat** - Natural language interface using Groq LLM
 - **📁 Automatic File Management** - Save weather reports as JSON/TXT files
 - **🛠️ Tool Calling** - Intelligent agent that decides when to use weather and file tools
-- **🇵🇰 Pakistan Focus** - Specialized for Pakistani cities with validation
+
 
 ## 🛠️ Technologies Used
 
@@ -71,26 +71,13 @@ weather_agent/
 └── README.md          # Project documentation
 ```
 
-## 🛡️ Security
 
-- API keys stored in `.env` file (never committed to Git)
-- Environment variables loaded securely
-- GitHub secret scanning enabled
 
 ## 🔧 API Keys Required
 
 1. **Groq API Key** - [Get from Groq Console](https://console.groq.com/)
 2. **WeatherAPI Key** - [Get from WeatherAPI](https://www.weatherapi.com/)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Mumair567/weather_agent/issues).
-
----
 
 ## 👨‍💻 Author
 
@@ -98,6 +85,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 📧 Email: umair786uet@gmail.com  
 🔗 GitHub: [Mumair567](https://github.com/Mumair567)
 
----
 
 ⭐ Star this repository if you find it helpful!
